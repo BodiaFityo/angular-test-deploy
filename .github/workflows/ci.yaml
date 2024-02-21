@@ -35,4 +35,4 @@ jobs:
           SOURCE: "dist/"
           REMOTE_HOST: "ec2-16-170-163-219.eu-north-1.compute.amazonaws.com"
           REMOTE_USER: "ubuntu"
-          TARGET: "/var/www/html/angular-test-deploy/dist/angular-test-deploy"
+          TARGET: "/var/www/html/angular-test-deploy"
